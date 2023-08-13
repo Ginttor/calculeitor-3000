@@ -1,0 +1,143 @@
+105053000 230105053                       POMO DE VIDRIO 1000 ML
+                                  1.00                                                                  1.78            0.00           0.00          0.18            1.60
+             000                          HOME CL
+
+110327000 230110327                       VASO PLASTICO C/SORBETE
+                                  1.00                                                                  1.78            0.00           0.00          0.18            1.60
+             000                          850 ML
+
+111117000 786114691                       PORTA CUBIERTO PLASTICO
+                                  1.00                                                                  2.67            0.00           0.00          0.27            2.40
+             731                          C/TAPA
+
+121023000 786210058                       EXPRIMIDOR DE ALUMINIO
+                                  1.00                                                                  4.46            0.00           0.00          0.45            4.01
+             474                          P/LIMON
+
+141889000 786212712                       CLORO D'SANT SACHET 150
+                                  3.00                                                                  0.88            0.00           0.00          0.27            2.38
+             026                          ML X 8
+
+169632002 230169632                       SHAMPOO ELEMENTS BY
+                                  1.00                                                                  1.78            0.00           0.00          0.36            1.42
+             002                          TRIAL 1000
+
+250317000 786101511                       MAIZ DULCE GUSTADINA 227
+                                  2.00                                                                  1.24            0.00           0.00          0.25            2.23
+             181                          G
+
+251005000 786100890                       SABORIZANTE DE VAINILLA
+                                  1.00                                                                  1.06            0.00           0.00          0.11            0.95
+             202                          LEVAPA
+
+251560002 841222404                       TOSTADAS DIET 100 G ARROZ
+                                  1.00                                                                  3.21            0.00           0.00          0.32            2.89
+             036
+
+251636000 841222404                       TORTITAS DE ARROZ
+                                  1.00                                                                  3.21            0.00           0.00          0.32            2.89
+             019                          INTEGRAL DIE
+
+257295000 786116730                       ATUN LOMITOS EN AGUA
+                                  2.00                                                                  2.59            0.00           0.00          0.52            4.66
+             233                          CAMPOS 80
+
+257453000 841066000                       ACEITE DE OLIVA EXTRA
+                                  1.00                                                                  2.67            0.00           0.00          0.27            2.40
+             179                          VIRGEN L
+
+257521000 786100230
+                                  1.00    LASANA SUMESA 400 G                                           4.99            0.00           0.00          0.50            4.49
+             021
+   Cod.       Cod.                                                                   Precio Unitario                Precio sin                   Precio Total
+                        Cantidad           Descripción           Detalle Adicional                     Subsidio                    Descuento
+ Principal   Auxiliar                                                                                               Subsidio
+
+257714000 073990700
+                          1.00     HARINA DE MAIZ PAN 1 KG                                     1.59          0.00           0.00          0.16            1.43
+             001
+
+257911000 786107460                FREJOL PANAMITO CAMARI
+                          1.00                                                                 1.19          0.00           0.00          0.12            1.07
+             007                   500 G
+
+257918000 786107460                MAIZ P/TOSTAR CAMARI 500 G
+                          1.00                                                                 1.29          0.00           0.00          0.13            1.16
+             017
+
+258711000 786210216                LENTEJON SABOREANDO 300
+                          1.00                                                                 0.99          0.00           0.00          0.10            0.89
+             124                   G
+
+259641000 230259633
+                          1.00     APANADURA TA'RIKO 250 G                                     0.59          0.00           0.00          0.12            0.47
+             000
+
+259695000 230259695                HARINA DE TRIGO TA'RIKO 500
+                          1.00                                                                 0.99          0.00           0.00          0.20            0.79
+             000                   G
+
+259703000 230259703                ACEITE DE ORUJO DE OLIVA
+                          1.00                                                                 4.46          0.00           0.00          0.89            3.57
+             000                   TA'RI
+
+261905000 786109119                GALLETAS SALADAS NESTLE
+                          1.00                                                                 1.74          0.00           0.00          0.17            1.57
+             989                   380 G
+
+262346000 786100026                CARAMELOS DUROS
+                          1.00                                                                 0.97          0.00           0.00          0.10            0.87
+             573                   ARTESANALES LA
+
+270809000 786109215                QUESO JAVIERINO KIOSKO
+                          2.00                                                                 4.99          0.00           0.00          1.00            8.98
+             765                   300 G
+
+270816000 786109215                QUESO PARMESANO KIOSKO
+                          2.00                                                                 2.29          0.00           0.00          0.46            4.12
+             511                   100 G
+
+280817000 786800084                FILETE DE PESCADO
+                          2.00                                                                 3.89          0.00           0.00          0.78            7.00
+             432                   MERLUZA MARI
+
+280827000 064728312                CAMARON MIX PELADO Y
+                          2.00                                                                 1.99          0.00           0.00          0.40            3.58
+             255                   DESVENADO
+
+281918000 786213424                RECORTES DE SALMON
+                          1.00                                                                 3.99          0.00           0.00          0.40            3.59
+             043                   ANCLA Y VIE
+
+289504000 230289504                MIX DE MARISCOS TA'RIKO
+                          1.00                                                                 4.99          0.00           0.00          1.00            3.99
+             000                   454 G
+
+291004000 000000050                VISCERAS MOLLEJA DE
+                          0.82                                                                 5.70          0.00           0.00          0.47            4.23
+             929                   POLLO BAND
+
+300546000 786101862                SALCHICHAS DE POLLO JURIS
+                          1.00                                                                 1.79          0.00           0.00          0.18            1.61
+             050                   200
+
+310231000 000310231
+                          1.00     PINA GOLDEN POR UNIDAD                                      0.99          0.00           0.00          0.10            0.89
+             000
+
+310311000 786210343                GUACAMOLE CON JALAPENO
+                          1.00                                                                 2.58          0.00           0.00          0.26            2.32
+             276                   GREEN G
+
+310312000 786210343                GUACAMOLE ORIGINAL
+                          1.00                                                                 2.22          0.00           0.00          0.22            2.00
+             277                   GREEN GARDE
+
+310590000 786103491                CHAMPINONES REBANADOS
+                          1.00                                                                 1.99          0.00           0.00          0.20            1.79
+             022                   GUIPI 20
+
+310715000 786100027                CHOCHO CON SAL NEVALL
+                          2.00                                                                 1.79          0.00           0.00          0.36            3.22
+             613                   500 G
+                                                                            SUBTOTAL 12%                       35.10
